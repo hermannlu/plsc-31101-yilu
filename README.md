@@ -1,6 +1,6 @@
 ## Short Description
 
-This project seeks to investigate the US politicians' reference to "socialism": their conceptions towards and frequencies of mentioning the word "socialism".
+This project seeks to investigate the US politicians' public reference to "socialism": their conceptions towards and frequencies of mentioning the word "socialism" in public remarks.
 
 ## Dependencies
 
