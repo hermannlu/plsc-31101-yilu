@@ -34,11 +34,15 @@ This project seeks to investigate the US politicians' public reference to "socia
 - *text*: content of the public remarks.
 
 #### Results/
-1. Frequency across time.png: Graphs the number of public remarks mentioning "socialism" in different time periods
-2. Who talks about socialism most.png: Graphs the 10 people who most frequently talked about "socialism" in their public remarks.  
-3. Trump.png: Visualizes the most frequent terms that Donald J. Trump used when talking about socialism.
-4. Obama.png: Visualizes the most frequent terms that Barack Obama used when talking about socialism.
-5. Reagan.png: Visualizes the most frequent terms that Ronald Reagan used when talking about socialism.
+1. Public remarks ante 1991.png: Graphs the proportion of public remarks mentioning "socialism" before the end of 1991.
+2. Public remarks post 2008.png: Graphs the proportion of public remarks mentioning "socialism" starting from 2008.
+3. Who talks about socialism most.png: Graphs the 10 people who most frequently talked about "socialism" in their public remarks. 
+4. Remarks gop.png: Graphs the proportion of public remarks mentiong "socialism" made by Republican presidents.
+5. Remarks gop no trump.png: Graphs the proportion of public remarks mentioning "socialism" made by all Republican presidents except Trump.
+6. Trump.png: Visualizes the most frequent terms that Donald J. Trump used when talking about socialism.
+7. Obama.png: Visualizes the most frequent terms that Barack Obama used when talking about socialism.
+8. Reagan.png: Visualizes the most frequent terms that Ronald Reagan used when talking about socialism.
+9. Carter.png: Visualizes the most frequent terms that Jimmy Carter used when talking about socialism.
 
 ## More Information
 
