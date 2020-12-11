@@ -26,7 +26,7 @@ This project seeks to investigate the US politicians' public reference to "socia
 3. Analysis.R: Conducts descriptive analysis of the data, producing relevant tables and visualizations.
 
 #### Data/
-1. 
+1. links.csv: Contains raw data of unprocessed urls.
 2. potus.csv: Contains data from the document urls with 4 variables:
 - *party*: politcal parties that the presidents affiliated with.
 - *speaker*: politicians/organizations who delivered the public remarks.
@@ -35,7 +35,7 @@ This project seeks to investigate the US politicians' public reference to "socia
 
 #### Results/
 1. Frequency across time.png: Graphs the number of public remarks mentioning "socialism" in different time periods
-2. Who talks about socialism most.png: Graphs 10 people who 
+2. Who talks about socialism most.png: Graphs the 10 people who most frequently talked about "socialism" in their public remarks.  
 3. Trump.png: Visualizes the most frequent terms that Donald J. Trump used when talking about socialism.
 4. Obama.png: Visualizes the most frequent terms that Barack Obama used when talking about socialism.
 5. Reagan.png: Visualizes the most frequent terms that Ronald Reagan used when talking about socialism.
