@@ -43,6 +43,7 @@ This project seeks to investigate the US politicians' reference to "socialism": 
 ## More Information
 
 Author name: Yi Lu
+
 Email: lu114514@uchicago.edu
 
 Das ist das Ende! (This is the end!)
