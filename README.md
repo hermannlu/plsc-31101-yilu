@@ -1,6 +1,6 @@
 ## Short Description
 
-This project seeks to investigate the US politicians' reference to "socialism": their frequencies and conceptions towards the word "socialism"
+This project seeks to investigate the US politicians' reference to "socialism": their conceptions towards and frequencies of mentioning the word "socialism".
 
 ## Dependencies
 
@@ -27,18 +27,22 @@ This project seeks to investigate the US politicians' reference to "socialism": 
 
 #### Data/
 1. 
-2. potus.csv: Contains data from the document urls 
+2. potus.csv: Contains data from the document urls with 4 variables:
+- *party*: politcal parties that the presidents affiliated with.
+- *speaker*: politicians/organizations who delivered the public remarks.
+- *date*: dates on which the public remarks delivered.
+- *text*: content of the public remarks.
 
 #### Results/
 1. Frequency across time.png: Graphs the number of public remarks mentioning "socialism" in different time periods
-2. Who talks about socialism most.png: 
-3. Trump.png: Visualizes the most frequent terms that Trump used when talking about socialism
-4. Obama.png: 
-5. Reagan.png
+2. Who talks about socialism most.png: Graphs 10 people who 
+3. Trump.png: Visualizes the most frequent terms that Donald J. Trump used when talking about socialism.
+4. Obama.png: Visualizes the most frequent terms that Barack Obama used when talking about socialism.
+5. Reagan.png: Visualizes the most frequent terms that Ronald Reagan used when talking about socialism.
 
 ## More Information
 
 Author name: Yi Lu
-Email: lu114514[at]uchicago.edu
+Email: lu114514@uchicago.edu
 
 Das ist das Ende! (This is the end!)
